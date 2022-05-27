@@ -33,3 +33,11 @@ npm workspaces with instructions in the downstream projects.
 
 This allows you to create atomic PRs with design token changes, while being able to
 develop against the newest changes.
+
+Run:
+
+```bash
+npm start
+```
+
+to start the watcher which will re-build on changes.

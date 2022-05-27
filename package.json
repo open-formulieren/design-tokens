@@ -4,13 +4,14 @@
   "description": "Design tokens for Open Forms",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "style-dictionary build -c style-dictionary.config.json"
+    "build": "style-dictionary build -c style-dictionary.config.json",
+    "start": "chokidar --initial --command 'npm run build' 'src/**/*.tokens.json' 'src/**/tokens.json'"
   },
   "main": "index.js",
   "files": [
-      "dist/",
-      "src/",
-      "assets/"
+    "dist/",
+    "src/",
+    "assets/"
   ],
   "repository": {
     "type": "git",
@@ -32,6 +33,8 @@
   },
   "homepage": "https://github.com/open-formulieren/design-tokens#readme",
   "devDependencies": {
+    "chokidar": "^3.5.3",
+    "chokidar-cli": "^3.0.0",
     "style-dictionary": "^3.7.0"
   }
 }
