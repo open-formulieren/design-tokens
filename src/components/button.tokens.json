@@ -1,0 +1,9 @@
+{
+  "of": {
+    "button": {
+      "fg": {"value": "{of.color.fg}"},
+      "bg": {"value": "{of.color.bg}"},
+      "color-border": {"value": "{of.color.border}"}
+    }
+  }
+}

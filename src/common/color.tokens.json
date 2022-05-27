@@ -1,0 +1,18 @@
+{
+  "of": {
+    "color": {
+      "primary": {"value": "#01689B"},
+      "secondary": {"value": "#cee0ea"},
+
+      "info": {"value": "#007bc7"},
+      "success": {"value": "green"},
+      "warning": {"value": "#E17000"},
+      "danger": {"value": "#D52B1E"},
+
+      "bg": {"value": "#ffffff"},
+      "fg": {"value": "#000000"},
+      "border": {"value": "#767676"},
+      "link": {"value": "{of.color.primary}"}
+    }
+  }
+}
