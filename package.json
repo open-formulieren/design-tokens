@@ -1,0 +1,31 @@
+{
+  "name": "@open-formulieren/design-tokens",
+  "version": "0.1.0",
+  "description": "Design tokens for Open Forms",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "style-dictionary build -c style-dictionary.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-formulieren/design-tokens.git"
+  },
+  "keywords": [
+    "style-dictionary",
+    "common",
+    "ground",
+    "nl",
+    "design",
+    "system",
+    "open-forms"
+  ],
+  "author": "Maykin Media",
+  "license": "EUPL-1.2",
+  "bugs": {
+    "url": "https://github.com/open-formulieren/design-tokens/issues"
+  },
+  "homepage": "https://github.com/open-formulieren/design-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.0"
+  }
+}
