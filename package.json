@@ -7,7 +7,7 @@
     "build": "style-dictionary build -c style-dictionary.config.json",
     "start": "chokidar --initial --command 'npm run build' 'src/**/*.tokens.json' 'src/**/tokens.json'"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
   "files": [
     "dist/",
     "src/",
