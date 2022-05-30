@@ -1,9 +1,7 @@
 {
   "of": {
     "checkbox": {
-      "color": {
-        "bg": {"value": "#F3F3F3"}
-      }
+      "bg": {"value": "#F3F3F3"}
     }
   }
 }

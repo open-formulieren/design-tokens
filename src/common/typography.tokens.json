@@ -1,0 +1,10 @@
+{
+  "of": {
+    "heading": {
+      "fg": {"value": "{of.color.fg}"}
+    },
+    "link": {
+      "color": {"value": "{of.color.primary}"}
+    }
+  }
+}

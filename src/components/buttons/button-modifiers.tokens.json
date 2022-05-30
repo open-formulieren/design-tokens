@@ -1,16 +1,38 @@
 {
   "of": {
     "button": {
-      "bg": {
-        "hover": {"value": "#cccccc"},
-        "active": {"value": "#bfbfbf"}
+      "hover": {
+        "bg": {"value": "#cccccc"},
+        "color-border": {"value": "#5e5e5e"}
       },
-      "color-border": {
-        "hover": {"value": "#5e5e5e"},
-        "active": {"value": "#5e5e5e"}
+      "active": {
+        "fg": {"value": "{of.color.fg}"},
+        "bg": {"value": "#bfbfbf"},
+        "color-border": {"value": "#5e5e5e"}
       },
-      "fg": {
-        "active": {"value": "{of.color.fg}"}
+
+      "anchor": {
+        "hover": {
+          "bg": {"value": "transparent"},
+          "color-border": {"value": "transparent"}
+        },
+        "active": {
+          "fg": {"value": "#014e74"},
+          "bg": {"value": "transparent"},
+          "color-border": {"value": "transparent"}
+        }
+      },
+
+      "primary": {
+        "hover": {
+          "bg": {"value": "#016698"},
+          "color-border": {"value": "#01537c"}
+        },
+        "active": {
+          "fg": {"value": "#bfbfbf"},
+          "bg": {"value": "#01608f"},
+          "color-border": {"value": "#01537c"}
+        }
       }
     }
   }

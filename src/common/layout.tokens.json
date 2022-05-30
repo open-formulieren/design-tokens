@@ -1,9 +1,7 @@
 {
   "of": {
     "layout": {
-      "color": {
-        "bg": {"value": "#E6E6E6"}
-      }
+      "bg": {"value": "#E6E6E6"}
     }
   }
 }

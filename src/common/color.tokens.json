@@ -11,8 +11,8 @@
 
       "bg": {"value": "#ffffff"},
       "fg": {"value": "#000000"},
-      "border": {"value": "#767676"},
-      "link": {"value": "{of.color.primary}"}
+      "fg-muted": {"value": "#767676"},
+      "border": {"value": "#767676"}
     }
   }
 }

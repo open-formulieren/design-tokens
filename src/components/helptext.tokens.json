@@ -1,10 +1,8 @@
 {
   "of": {
     "helptext": {
-      "color": {
-        "bg": {"value": "#d3e3ec"},
-        "fg": {"value": "{of.color.fg}"}
-      }
+      "bg": {"value": "#d3e3ec"},
+      "fg": {"value": "{of.color.fg}"}
     }
   }
 }

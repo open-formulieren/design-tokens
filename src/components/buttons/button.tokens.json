@@ -3,7 +3,19 @@
     "button": {
       "fg": {"value": "{of.color.fg}"},
       "bg": {"value": "{of.color.bg}"},
-      "color-border": {"value": "{of.color.border}"}
+      "color-border": {"value": "{of.color.border}"},
+
+      "anchor": {
+        "fg": {"value": "{of.link.color}"},
+        "bg": {"value": "transparent"},
+        "color-border": {"value": "transparent"}
+      },
+
+      "primary": {
+        "fg": {"value": "#ffffff"},
+        "bg": {"value": "#0180be"},
+        "color-border": {"value": "{of.color.primary}"}
+      }
     }
   }
 }

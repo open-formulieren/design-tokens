@@ -41,3 +41,56 @@ npm start
 ```
 
 to start the watcher which will re-build on changes.
+
+## Naming pattern
+
+Because of the way style-dictionary works, you have to pay close attention to the
+structure of the tokens. E.g. if you have two tokens definition files like:
+
+```json
+{
+  "of": {
+    "color": {
+      "fg": {"value": "#000000"}
+    }
+  }
+}
+```
+
+```json
+{
+  "of": {
+    "color": {
+      "fg": {
+        "muted": {"value": "#000000"}
+      }
+    }
+  }
+}
+```
+
+Then only `--of-color-fg` will be emitted since the merged object sees a `value` key
+at the `of.color.fg` path.
+
+You can usually avoid this by sticking to a structure adhering to:
+
+```
+<prefix>.<component>.<modifier>.<UIState>.<CSSProperty>
+```
+
+Where `UIState` can be blank or a value like `hover`, `active`...
+
+Alternatively, if the structure is not that important, you can put the tokens on the
+same level, e.g.:
+
+```json
+{
+  "of": {
+    "color": {
+      "fg-muted": {"value": "#000000"}
+    }
+  }
+}
+```
+
+The latter form is harder to keep track off across files though.

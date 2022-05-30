@@ -1,9 +1,7 @@
 {
   "of": {
-    "color": {
-      "field": {
-        "border": "#979797"
-      }
+    "field-border": {
+      "color": {"value": "#979797"}
     }
   }
 }

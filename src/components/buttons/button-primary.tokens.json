@@ -1,9 +1,0 @@
-{
-  "of": {
-    "button-primary": {
-      "fg": {"value": "#ffffff"},
-      "bg": {"value": "#0180be"},
-      "color-border": {"value": "{of.color.primary}"}
-    }
-  }
-}

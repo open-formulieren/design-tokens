@@ -1,9 +1,0 @@
-{
-  "of": {
-    "button-anchor": {
-      "fg": {"value": "{of.color.link}"},
-      "bg": {"value": "transparent"},
-      "color-border": {"value": "transparent"}
-    }
-  }
-}
