@@ -1,0 +1,13 @@
+{
+  "of": {
+    "color": {
+      "fg": {
+        "heading": {"value": "{of.color.fg}"},
+        "muted": {"value": "#767676"}
+      },
+      "link": {
+        "hover": {"value": "{of.color.link}"}
+      }
+    }
+  }
+}

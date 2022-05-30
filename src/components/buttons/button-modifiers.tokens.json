@@ -1,0 +1,17 @@
+{
+  "of": {
+    "button": {
+      "bg": {
+        "hover": {"value": "#cccccc"},
+        "active": {"value": "#bfbfbf"}
+      },
+      "color-border": {
+        "hover": {"value": "#5e5e5e"},
+        "active": {"value": "#5e5e5e"}
+      },
+      "fg": {
+        "active": {"value": "{of.color.fg}"}
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "of": {
+    "button-primary": {
+      "bg": {
+        "hover": {"value": "transparent"},
+        "active": {"value": "transparent"}
+      },
+      "color-border": {
+        "hover": {"value": "transparent"},
+        "active": {"value": "transparent"}
+      },
+      "fg": {
+        "active": {"value": "#014e74"}
+      }
+    }
+  }
+}
