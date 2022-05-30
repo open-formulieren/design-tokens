@@ -1,6 +1,6 @@
 {
   "of": {
-    "button-primary": {
+    "button-anchor": {
       "bg": {
         "hover": {"value": "transparent"},
         "active": {"value": "transparent"}
