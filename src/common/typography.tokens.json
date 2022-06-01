@@ -4,7 +4,25 @@
       "fg": {"value": "{of.color.fg}"}
     },
     "link": {
-      "color": {"value": "{of.color.primary}"}
+      "color": {"value": "{of.color.primary}"},
+      "hover": {
+        "color": {"value": "{of.link.color}"}
+      }
+    },
+    "text": {
+      "margin": {"value": "20px"},
+      "mobile": {
+        "margin": {"value": "{of.text.margin}"}
+      },
+      "tablet": {
+        "margin": {"value": "{of.text.margin}"}
+      },
+      "laptop": {
+        "margin": {"value": "{of.text.margin}"}
+      },
+      "desktop": {
+        "margin": {"value": "{of.text.margin}"}
+      }
     }
   }
 }
