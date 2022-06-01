@@ -4,7 +4,10 @@
       "fg": {"value": "{of.color.fg}"}
     },
     "link": {
-      "color": {"value": "{of.color.primary}"}
+      "color": {"value": "{of.color.primary}"},
+      "hover": {
+        "color": {"value": "{of.link.color}"}
+      }
     },
     "text": {
       "margin": {"value": "20px"},
