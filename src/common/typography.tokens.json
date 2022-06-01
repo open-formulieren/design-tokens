@@ -5,6 +5,21 @@
     },
     "link": {
       "color": {"value": "{of.color.primary}"}
+    },
+    "text": {
+      "margin": {"value": "20px"},
+      "mobile": {
+        "margin": {"value": "{of.text.margin}"}
+      },
+      "tablet": {
+        "margin": {"value": "{of.text.margin}"}
+      },
+      "laptop": {
+        "margin": {"value": "{of.text.margin}"}
+      },
+      "desktop": {
+        "margin": {"value": "{of.text.margin}"}
+      }
     }
   }
 }
