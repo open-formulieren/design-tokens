@@ -45,6 +45,9 @@ def count_leaf_nodes(data: dict) -> int:
       num_leaf_nodes += 1
       continue
 
+    if key == "comment":
+      continue
+
     if isinstance(value, dict):
       num_leaf_nodes += count_leaf_nodes(value)
     else:
