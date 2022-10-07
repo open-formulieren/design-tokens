@@ -33,6 +33,18 @@
           "bg": {"value": "#01608f"},
           "color-border": {"value": "#01537c"}
         }
+      },
+
+      "danger": {
+        "hover": {
+          "bg": {"value": "#aa2218"},
+          "color-border": {"value": "#881b13"}
+        },
+        "active": {
+          "fg": {"value": "#ee837d"},
+          "bg": {"value": "#a02017"},
+          "color-border": {"value": "#881b13"}
+        }
       }
     }
   }

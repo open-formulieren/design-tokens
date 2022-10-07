@@ -15,6 +15,12 @@
         "fg": {"value": "#ffffff"},
         "bg": {"value": "#0180be"},
         "color-border": {"value": "{of.color.primary}"}
+      },
+
+      "danger": {
+        "fg": {"value": "#fce9e8"},
+        "bg": {"value": "{of.color.danger}"},
+        "color-border": {"value": "#aa2218"}
       }
     }
   }
