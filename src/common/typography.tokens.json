@@ -23,6 +23,11 @@
       "desktop": {
         "margin": {"value": "{of.text.margin}"}
       }
+    },
+    "typography": {
+      "sans-serif": {
+        "font-family": {"value": "\"Fira Sans\", Calibri, sans-serif"}
+      }
     }
   }
 }
