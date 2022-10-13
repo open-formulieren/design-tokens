@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "document": {
-      "font-family": {"value": "\"Fira Sans\", Calibri, sans-serif"}
+      "font-family": {"value": "{of.typography.sans-serif.font-family}"}
     }
   }
 }

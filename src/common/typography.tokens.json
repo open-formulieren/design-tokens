@@ -26,7 +26,7 @@
     },
     "typography": {
       "sans-serif": {
-        "font-family": {"value": "{utrecht.document.font-family}"}
+        "font-family": {"value": "\"Fira Sans\", Calibri, sans-serif"}
       }
     }
   }
