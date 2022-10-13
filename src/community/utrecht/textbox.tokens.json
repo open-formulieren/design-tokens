@@ -14,7 +14,7 @@
       "padding-inline-end": {"value": "12px"},
       "padding-inline-start": {"value": "12px"},
       "disabled": {
-        "background-color": {"value": "e9ecef"}
+        "background-color": {"value": "#e9ecef"}
       }
     }
   }
