@@ -27,7 +27,7 @@ def get_emitted_var_count() -> int:
     sys.exit(1)
 
   num_found = 0
-  test_prefix = "--of-"
+  test_prefix = "--"
   with open(test_file, "r") as infile:
     for line in infile:
       if line.strip().startswith(test_prefix):
