@@ -2,6 +2,9 @@
   "utrecht": {
     "document": {
       "font-family": {"value": "{of.typography.sans-serif.font-family}"}
+    },
+    "link": {
+      "color": {"value": "{of.link.color}"}
     }
   }
 }

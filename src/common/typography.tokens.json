@@ -11,6 +11,13 @@
     },
     "text": {
       "margin": {"value": "20px"},
+      "font-size": {"value": "1rem"},
+      "big": {
+        "font-size": {"value": "1.125rem"}
+      },
+      "small": {
+        "font-size": {"value": "0.875rem"}
+      },
       "mobile": {
         "margin": {"value": "{of.text.margin}"}
       },
