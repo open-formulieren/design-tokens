@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": {"value": "{of.color.fg}"},
+      "font-weight": {"value": "{of.label.font-weight}"},
+      "font-size": {"value": "{of.text.big.font-size}"}
+    }
+  }
+}
