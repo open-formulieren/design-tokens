@@ -13,7 +13,7 @@
 
       "primary": {
         "fg": {"value": "#ffffff"},
-        "bg": {"value": "#0180be"},
+        "bg": {"value": "#0177b2"},
         "color-border": {"value": "{of.color.primary}"}
       },
 
