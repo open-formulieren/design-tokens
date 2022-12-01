@@ -16,7 +16,7 @@
       "padding-inline-end": { "value": "12px" },
 
       "focus": {
-        "border-color": { "value": "{of.button.primary.fg}" }
+        "border-color": {"value": "#0177b2"}
       },
 
       "hover": {
