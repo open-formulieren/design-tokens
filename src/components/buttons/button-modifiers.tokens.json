@@ -10,6 +10,9 @@
         "bg": {"value": "#bfbfbf"},
         "color-border": {"value": "#5e5e5e"}
       },
+      "focus": {
+        "color-border": {"value": "{of.color.info}"}
+      },
 
       "anchor": {
         "hover": {
@@ -20,6 +23,9 @@
           "fg": {"value": "#014e74"},
           "bg": {"value": "transparent"},
           "color-border": {"value": "transparent"}
+        },
+        "focus": {
+          "color-border": {"value": "{of.color.info}"}
         }
       },
 
@@ -32,6 +38,9 @@
           "fg": {"value": "#bfbfbf"},
           "bg": {"value": "#01608f"},
           "color-border": {"value": "#01537c"}
+        },
+        "focus": {
+          "color-border": {"value": "#000000"}
         }
       },
 
