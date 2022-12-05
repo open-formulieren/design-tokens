@@ -1,68 +1,68 @@
 {
   "utrecht": {
     "button": {
-      "background-color": { "value": "{of.button.bg}" },
-      "border-color": { "value": "rgba(0,0,0,0)" },
-      "border-radius": { "value": "0" },
-      "border-width": { "value": "2px" },
-      "color": { "value": "{of.button.fg}" },
-      "font-size": { "value": "{of.text.big.font-size}" },
-      "line-height": { "value": "1.333" },
-      "min-block-size": { "value": "0" },
-      "min-inline-size": { "value": "0" },
-      "padding-block-start": { "value": "10.003px" },
-      "padding-block-end": { "value": "10.003px" },
-      "padding-inline-start": { "value": "12px" },
-      "padding-inline-end": { "value": "12px" },
+      "background-color": {"value": "{of.button.bg}"},
+      "border-color": {"value": "rgba(0,0,0,0)"},
+      "border-radius": {"value": "0"},
+      "border-width": {"value": "2px"},
+      "color": {"value": "{of.button.fg}"},
+      "font-size": {"value": "{of.text.big.font-size}"},
+      "line-height": {"value": "1.333"},
+      "min-block-size": {"value": "0"},
+      "min-inline-size": {"value": "0"},
+      "padding-block-start": {"value": "10.003px"},
+      "padding-block-end": {"value": "10.003px"},
+      "padding-inline-start": {"value": "12px"},
+      "padding-inline-end": {"value": "12px"},
 
       "focus": {
-        "border-color": {"value": "{of.button.primary.fg}"}
+        "border-color": {"value": "{#0177b2}"}
       },
 
       "hover": {
-        "background-color": { "value": "{of.button.hover.bg}" },
-        "border-color": { "value": "rgba(0,0,0,0)" },
-        "color": { "value": "{of.button.fg}" }
+        "background-color": {"value": "{of.button.hover.bg}"},
+        "border-color": {"value": "rgba(0,0,0,0)"},
+        "color": {"value": "{of.button.fg}"}
       },
 
       "active": {
-        "background-color": { "value": "{of.button.active.bg}" },
-        "border-color": { "value": "rgba(0,0,0,0)" },
-        "color": { "value": "{of.button.active.fg}" }
+        "background-color": {"value": "{of.button.active.bg}"},
+        "border-color": {"value": "rgba(0,0,0,0)"},
+        "color": {"value": "{of.button.active.fg}"}
       },
 
       "primary-action": {
-        "background-color": { "value": "{of.button.primary.bg}" },
-        "border-color": { "value": "rgba(0,0,0,0)" },
-        "color": { "value": "{of.button.primary.fg}" },
+        "background-color": {"value": "{of.button.primary.bg}"},
+        "border-color": {"value": "rgba(0,0,0,0)"},
+        "color": {"value": "{of.button.primary.fg}"},
 
         "hover": {
-          "background-color": { "value": "{of.button.primary.hover.bg}" },
-          "border-color": { "value": "rgba(0,0,0,0)" },
-          "color": { "value": "{of.button.primary.fg}" }
+          "background-color": {"value": "{of.button.primary.hover.bg}"},
+          "border-color": {"value": "rgba(0,0,0,0)"},
+          "color": {"value": "{of.button.primary.fg}"}
         },
 
         "active": {
-          "background-color": { "value": "{of.button.primary.active.bg}" },
-          "border-color": { "value": "rgba(0,0,0,0)" },
-          "color": { "value": "{of.button.primary.active.fg}" }
+          "background-color": {"value": "{of.button.primary.active.bg}"},
+          "border-color": {"value": "rgba(0,0,0,0)"},
+          "color": {"value": "{of.button.primary.active.fg}"}
         },
 
         "danger": {
-          "background-color": { "value": "{of.button.danger.bg}" },
-          "border-color": { "value": "rgba(0,0,0,0)" },
-          "color": { "value": "{of.button.danger.fg}" },
+          "background-color": {"value": "{of.button.danger.bg}"},
+          "border-color": {"value": "rgba(0,0,0,0)"},
+          "color": {"value": "{of.button.danger.fg}"},
 
           "hover": {
-            "background-color": { "value": "{of.button.danger.hover.bg}" },
-            "border-color": { "value": "rgba(0,0,0,0)" },
-            "color": { "value": "{of.button.danger.fg}" }
+            "background-color": {"value": "{of.button.danger.hover.bg}"},
+            "border-color": {"value": "rgba(0,0,0,0)"},
+            "color": {"value": "{of.button.danger.fg}"}
           },
 
           "active": {
-            "background-color": { "value": "{of.button.danger.active.bg}" },
-            "border-color": { "value": "rgba(0,0,0,0)" },
-            "color": { "value": "{of.button.danger.active.fg}" }
+            "background-color": {"value": "{of.button.danger.active.bg}"},
+            "border-color": {"value": "rgba(0,0,0,0)"},
+            "color": {"value": "{of.button.danger.active.fg}"}
           }
         }
       }
