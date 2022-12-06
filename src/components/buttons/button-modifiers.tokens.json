@@ -11,7 +11,10 @@
         "color-border": {"value": "#5e5e5e"}
       },
       "focus": {
-        "color-border": {"value": "{of.color.info}"}
+        "color-border": {"value": "#0177b2"}
+      },
+      "focus-visible": {
+        "color-border": {"value": "#0177b2"}
       },
 
       "anchor": {
@@ -25,7 +28,10 @@
           "color-border": {"value": "transparent"}
         },
         "focus": {
-          "color-border": {"value": "{of.color.info}"}
+          "color-border": {"value": "#0177b2"}
+        },
+        "focus-visible": {
+          "color-border": {"value": "#0177b2"}
         }
       },
 
@@ -41,6 +47,9 @@
         },
         "focus": {
           "color-border": {"value": "#000000"}
+        },
+        "focus-visible": {
+          "color-border": {"value": "#000000"}
         }
       },
 
@@ -53,6 +62,12 @@
           "fg": {"value": "#ee837d"},
           "bg": {"value": "#a02017"},
           "color-border": {"value": "#881b13"}
+        },
+        "focus": {
+          "color-border": {"value": "#000000"}
+        },
+        "focus-visible": {
+          "color-border": {"value": "#000000"}
         }
       }
     }

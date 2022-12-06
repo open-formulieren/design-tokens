@@ -67,16 +67,7 @@
             "background-color": {"value": "{of.button.danger.active.bg}"},
             "border-color": {"value": "rgba(0,0,0,0)"},
             "color": {"value": "{of.button.danger.active.fg}"}
-          },
-
-          "focus": {
-            "border-color": {"value": "#000"}
           }
-        }
-      },
-      "secondary-action": {
-        "focus": {
-          "border-color": {"value": "#0177b2"}
         }
       }
     }
