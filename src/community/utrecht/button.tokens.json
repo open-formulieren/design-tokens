@@ -15,6 +15,10 @@
       "padding-inline-start": {"value": "12px"},
       "padding-inline-end": {"value": "12px"},
 
+      "focus": {
+        "border-color": {"value": "#0177b2"}
+      },
+
       "hover": {
         "background-color": {"value": "{of.button.hover.bg}"},
         "border-color": {"value": "rgba(0,0,0,0)"},
@@ -42,6 +46,10 @@
           "background-color": {"value": "{of.button.primary.active.bg}"},
           "border-color": {"value": "rgba(0,0,0,0)"},
           "color": {"value": "{of.button.primary.active.fg}"}
+        },
+
+        "focus": {
+          "border-color": {"value": "#0177b2"}
         },
 
         "danger": {
