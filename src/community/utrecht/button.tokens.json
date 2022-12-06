@@ -16,7 +16,7 @@
       "padding-inline-end": {"value": "12px"},
 
       "focus": {
-        "border-color": {"value": "#0177b2"}
+        "border-color": {"value": "{of.color.focus.border}"}
       },
 
       "hover": {
@@ -49,7 +49,7 @@
         },
 
         "focus": {
-          "border-color": {"value": "#0177b2"}
+          "border-color": {"value": "{of.color.focus.border}"}
         },
 
         "danger": {
