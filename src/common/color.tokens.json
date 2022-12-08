@@ -12,7 +12,8 @@
       "bg": {"value": "#ffffff"},
       "fg": {"value": "#000000"},
       "fg-muted": {"value": "#767676"},
-      "border": {"value": "#767676"}
+      "border": {"value": "#767676"},
+      "focus": {"border": {"value": "#0177b2"}}
     }
   }
 }

@@ -11,10 +11,10 @@
         "color-border": {"value": "#5e5e5e"}
       },
       "focus": {
-        "color-border": {"value": "#0177b2"}
+        "color-border": {"value": "{of.color.focus.border}"}
       },
       "focus-visible": {
-        "color-border": {"value": "#0177b2"}
+        "color-border": {"value": "{of.color.focus.border}"}
       },
 
       "anchor": {
@@ -28,10 +28,10 @@
           "color-border": {"value": "transparent"}
         },
         "focus": {
-          "color-border": {"value": "#0177b2"}
+          "color-border": {"value": "{of.color.focus.border}"}
         },
         "focus-visible": {
-          "color-border": {"value": "#0177b2"}
+          "color-border": {"value": "{of.color.focus.border}"}
         }
       },
 
