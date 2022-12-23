@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field-description": {
+      "color": {"value": "{of.color.fg}"},
+      "font-family": {"value": "{of.typography.sans-serif.font-family}"},
+      "font-size": {"value": "{of.text.font-size}"},
+      "font-style": {"value": "normal"},
+      "invalid": {
+        "color": {"value": "{of.color.danger}"}
+      }
+    }
+  }
+}
