@@ -7,6 +7,11 @@
       "color": {"value": "{of.color.primary}"},
       "hover": {
         "color": {"value": "{of.link.color}"}
+      },
+      "text": {
+        "decoration": {
+          "value": "underline"
+        }
       }
     },
     "text": {
