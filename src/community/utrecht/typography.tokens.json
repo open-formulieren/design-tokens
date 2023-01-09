@@ -9,6 +9,7 @@
         "value": "underline"
       },
       "hover": {
+        "color": {"value": "{of.link.hover.color}"},
         "text-decoration": {
           "value": "none"
         }
