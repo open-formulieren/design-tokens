@@ -3,10 +3,10 @@
     "heading": {
       "fg": {"value": "{of.color.fg}"}
     },
-    "link": {
-      "color": {"value": "{of.color.primary}"},
-      "hover": {
-        "color": {"value": "{of.link.color}"}
+    "utrecht-link": {
+      "font-family": {"value": "{of.typography.sans-serif.font-family}"},
+      "muted": {
+        "color": {"value": "{of.color.fg-muted}"}
       }
     },
     "text": {

@@ -6,7 +6,7 @@
       "color-border": {"value": "{of.color.border}"},
 
       "anchor": {
-        "fg": {"value": "{of.link.color}"},
+        "fg": {"value": "{utrecht.link.color}"},
         "bg": {"value": "transparent"},
         "color-border": {"value": "transparent"}
       },
