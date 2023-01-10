@@ -2,18 +2,6 @@
   "utrecht": {
     "document": {
       "font-family": {"value": "{of.typography.sans-serif.font-family}"}
-    },
-    "link": {
-      "color": {"value": "{of.link.color}"},
-      "text-decoration": {
-        "value": "underline"
-      },
-      "hover": {
-        "color": {"value": "{of.link.hover.color}"},
-        "text-decoration": {
-          "value": "none"
-        }
-      }
     }
   }
 }
