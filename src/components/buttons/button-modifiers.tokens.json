@@ -1,23 +1,5 @@
 {
   "of": {
-    "login-button-logo": {
-      "dark": {
-        "focus": {
-          "color-border": {"value": "aqua"}
-        },
-        "focus-visible": {
-          "color-border": {"value": "aqua"}
-        }
-      },
-      "light": {
-        "focus": {
-          "color-border": {"value": "green"}
-        },
-        "focus-visible": {
-          "color-border": {"value": "green"}
-        }
-      }
-    },
     "button": {
       "hover": {
         "bg": {"value": "#cccccc"},
