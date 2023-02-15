@@ -1,0 +1,11 @@
+{
+  "of": {
+    "select": {
+      "highlighted": {
+        "bg": {
+          "value": "#E6E6E6"
+        }
+      }
+    }
+  }
+}
