@@ -1,0 +1,9 @@
+{
+  "of": {
+    "progress-indicator": {
+      "sticky": {
+        "spacing": {"value": "20px"}
+      }
+    }
+  }
+}
