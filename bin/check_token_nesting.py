@@ -10,7 +10,6 @@
 from pathlib import Path
 import json
 import os
-import glob
 import sys
 
 ROOT_DIR = Path(__file__).parent.parent
@@ -39,7 +38,7 @@ def get_emitted_var_count() -> int:
 def count_leaf_nodes(data: dict) -> int:
   num_leaf_nodes = 0
   for key, value in data.items():
-    if key == "value":
+    if key in "value":
       if isinstance(value, (dict, list)):
         raise TypeError("The 'value' key value must be a scalar")
       num_leaf_nodes += 1
@@ -47,6 +46,9 @@ def count_leaf_nodes(data: dict) -> int:
 
     if key == "comment":
       continue
+
+    if key.startswith("$"):
+        continue
 
     if isinstance(value, dict):
       num_leaf_nodes += count_leaf_nodes(value)

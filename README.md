@@ -11,6 +11,9 @@ Specify the design tokens in JSON files, which are picked up and merged using th
 include various build targets, such as ES6 modules, CSS variables files, SASS vars... to be consumed
 in downstream projects.
 
+The draft [Design Token Format](https://design-tokens.github.io/community-group/format/) drives the
+structure of these design tokens.
+
 ## Usage
 
 **Using tokens**
