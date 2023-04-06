@@ -1,9 +1,0 @@
-{
-  "of": {
-    "progress-indicator-item": {
-      "not-applicable": {
-        "display": {"value": "flex"}
-      }
-    }
-  }
-}
