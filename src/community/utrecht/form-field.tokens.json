@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "form-field": {
+      "invalid": {
+        "border-inline-start": {
+          "color": {"value": "{of.color.danger}"},
+          "width": {"value": "4px"}
+        },
+        "padding-inline-start": {"value": "16px"}
+      }
+    }
+  }
+}
