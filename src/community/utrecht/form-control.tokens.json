@@ -1,0 +1,7 @@
+{
+  "utrecht": {
+    "form-control": {
+      "background-color": {"value": "{of.color.bg}"}
+    }
+  }
+}
