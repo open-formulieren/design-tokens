@@ -16,6 +16,7 @@
           }
         }
       },
+      "primary-light": {"value": "#d3e3ec"},
       "secondary": {
         "value": "#cee0ea",
         "comment": "The secondary compliments the primary color and serves as the default for a number of more fine-grained tokens.",
