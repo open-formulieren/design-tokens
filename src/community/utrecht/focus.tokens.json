@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "focus": {
+      "outline-width": {"value": "2px"},
+      "outline-color": {},
+      "outline-style": {"value": "solid"}
+    }
+  }
+}
