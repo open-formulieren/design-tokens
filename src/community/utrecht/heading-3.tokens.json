@@ -2,7 +2,7 @@
   "utrecht": {
     "heading-3": {
       "color": {"value": "{of.color.fg}"},
-      "font-family": {"value": "{of.typography.sans-serif.font-family"},
+      "font-family": {"value": "{of.typography.sans-serif.font-family}"},
       "font-size": {"value": "1.1875rem"},
       "font-weight": {},
       "line-height": {},
