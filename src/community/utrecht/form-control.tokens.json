@@ -1,7 +1,10 @@
 {
   "utrecht": {
     "form-control": {
-      "background-color": {"value": "{of.color.bg}"}
+      "background-color": {"value": "{of.color.bg}"},
+      "read-only": {
+        "background-color": {"value": "{of.color.read-only.bg}"}
+      }
     }
   }
 }

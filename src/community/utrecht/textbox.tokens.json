@@ -18,7 +18,10 @@
         "color": {"value": "{of.color.fg-muted}"}
       },
       "disabled": {
-        "background-color": {"value": "#e9ecef"}
+        "background-color": {"value": "{of.color.read-only.bg}"}
+      },
+      "read-only": {
+        "background-color": {"value": "{of.color.read-only.bg}"}
       }
     }
   }

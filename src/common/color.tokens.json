@@ -110,6 +110,12 @@
           "value": "#0177b2",
           "comment": "Default color for borders of focused elements."
         }
+      },
+      "read-only": {
+        "bg": {
+          "value": "#e9ecef",
+          "comment": "Default color for disabled/non-interactable input elements."
+        }
       }
     }
   }
