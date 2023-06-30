@@ -1,6 +1,9 @@
 {
   "utrecht": {
     "action": {
+      "activate": {
+        "cursor": {"value": "pointer"}
+      },
       "disabled": {
         "cursor": {"value": "not-allowed"}
       }
