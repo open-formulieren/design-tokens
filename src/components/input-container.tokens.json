@@ -1,0 +1,22 @@
+{
+  "of": {
+    "input-container": {
+      "prefix": {
+        "background-color": {"value": "transparent"},
+        "border-color": {"value": "transparent"},
+        "border-style": {"value": "solid"},
+        "border-width": {"value": "15.5px"},
+        "border-start-end-radius": {"value": "0px"},
+        "border-end-end-radius": {"value": "0px"}
+      },
+      "suffix": {
+        "background-color": {"value": "transparent"},
+        "border-color": {"value": "transparent"},
+        "border-style": {"value": "solid"},
+        "border-width": {"value": "15.5px"},
+        "border-start-end-radius": {"value": "0px"},
+        "border-end-end-radius": {"value": "0px"}
+      }
+    }
+  }
+}
