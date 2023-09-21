@@ -1,9 +1,0 @@
-{
-  "of": {
-    "login-options-cosign": {
-      "background-color": {"value": "#e9ecef"},
-      "padding-block": {"value": "0.6em"},
-      "padding-inline": {"value": "0.6em"}
-    }
-  }
-}
