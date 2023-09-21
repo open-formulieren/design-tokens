@@ -2,7 +2,7 @@
   "of": {
     "login-options": {
       "cosign": {
-        "background-color": {"value": "#e9ecef"},
+        "background-color": {"value": "{of.color.read-only}"},
         "padding-block": {"value": "0.6em"},
         "padding-inline": {"value": "0.6em"}
       }
