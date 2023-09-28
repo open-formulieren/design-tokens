@@ -33,7 +33,7 @@
     },
     "typography": {
       "sans-serif": {
-        "font-family": {"value": "\"Fira Sans\", Calibri, sans-serif"}
+        "font-family": {"value": "Fira Sans, Calibri, sans-serif"}
       }
     }
   }
