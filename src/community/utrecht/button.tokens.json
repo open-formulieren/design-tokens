@@ -69,6 +69,54 @@
             "color": {"value": "{of.button.danger.active.fg}"}
           }
         }
+      },
+
+      "secondary-action": {
+        "danger": {
+          "background": {
+            "color": {
+              "value": "{of.color.danger}"
+            }
+          },
+          "color": {
+            "value": "#fce9e8"
+          }
+        }
+      },
+
+      "subtle": {
+        "danger": {
+          "background": {
+            "color": {
+              "value": "{of.color.danger}"
+            }
+          },
+          "hover": {
+            "background": {
+              "color": {
+                "value": "{of.color.bg}"
+              }
+            }
+          },
+          "active": {
+            "background": {
+              "color": {
+                "value": "#a02017"
+              }
+            }
+          }
+        }
+      },
+
+      "disabled": {
+        "background": {
+          "color": {
+            "value": "#b0b0b0"
+          }
+        },
+        "color": {
+          "value": "#ffffff"
+        }
       }
     }
   }

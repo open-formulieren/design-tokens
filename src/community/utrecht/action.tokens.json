@@ -5,7 +5,14 @@
         "cursor": {"value": "pointer"}
       },
       "disabled": {
-        "cursor": {"value": "not-allowed"}
+        "cursor": {
+          "value": "not-allowed"
+        }
+      },
+      "submit": {
+        "cursor": {
+          "value": "pointer"
+        }
       }
     }
   }
