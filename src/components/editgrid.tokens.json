@@ -1,0 +1,42 @@
+{
+  "of": {
+    "editgrid": {
+      "$extensions": {
+        "dte.metadata": {
+          "groupDescription": "Theming for the editgrid (repeating group) component."
+        }
+      },
+
+      "line-height": {"value": 1.5},
+      "gap": {"value": "12px"},
+
+      "item": {
+        "$extensions": {
+          "dte.metadata": {
+            "groupDescription": "Tokens for a single item in a repeating group."
+          }
+        },
+
+        "gap": {"value": "12px"},
+        "border": {"value": "solid 1px {of.color.border}"},
+        "padding-block-end": {"value": "24px"},
+        "padding-block-start": {"value": "24px"},
+        "padding-inline-end": {"value": "24px"},
+        "padding-inline-start": {"value": "24px"}
+      },
+
+      "item-heading": {
+        "$extensions": {
+          "dte.metadata": {
+            "groupDescription": "Appearance of item/group legend/heading."
+          }
+        },
+
+        "font-family": {"value": "{of.typography.sans-serif.font-family}"},
+        "font-size": {"value": "0.875rem"},
+        "line-height": {"value": "1.2"},
+        "margin-block-end": {"value": "24px"}
+      }
+    }
+  }
+}
