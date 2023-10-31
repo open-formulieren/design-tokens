@@ -8,7 +8,10 @@
       },
 
       "line-height": {"value": 1.5},
-      "gap": {"value": "12px"},
+      "gap": {
+        "value": "8px",
+        "comment": "Spacing consistent with label (bottom) and help text (top) margins."
+      },
 
       "item": {
         "$extensions": {
