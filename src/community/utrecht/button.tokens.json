@@ -16,7 +16,7 @@
       "padding-inline-end": {"value": "12px"},
 
       "focus": {
-        "border-color": {"value": "{of.color.focus.border}"}
+        "border-color": {"value": "transparent"}
       },
 
       "hover": {
@@ -49,7 +49,7 @@
         },
 
         "focus": {
-          "border-color": {"value": "#000000"}
+          "border-color": {"value": "transparent"}
         },
 
         "danger": {
@@ -70,7 +70,7 @@
           },
 
           "focus": {
-            "border-color": {"value": "#000000"}
+            "border-color": {"value": "transparent"}
           }
         }
       },
@@ -79,17 +79,15 @@
         "border-color": {"value": "#5e5e5e"},
 
         "focus": {
-          "border-color": {"value": "{of.color.focus.border}"}
+          "border-color": {"value": "transparent"}
         },
 
         "danger": {
-          "background": {
-            "color": {
-              "value": "{of.color.danger}"
-            }
-          },
-          "color": {
-            "value": "#fce9e8"
+          "background-color": {"value": "{of.color.danger}"},
+          "color": {"value": "#fce9e8"},
+
+          "focus": {
+            "border-color": {"value": "transparent"}
           }
         }
       },
