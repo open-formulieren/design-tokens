@@ -1,42 +1,42 @@
 {
   "utrecht": {
-    "page-footer": {
+    "page-header": {
       "$extensions": {
         "dte.metadata": {
-          "groupDescription": "Default Open Forms footer styling."
+          "groupDescription": "Default Open Forms header styling."
         }
       },
 
-      "color": {"value": "{of.color.bg}"},
-      "background-color": {"value": "{of.color.primary}"},
-      "background-image": {},
+      "background-color": {"value": "#ffffff"},
+      "color": {"value": "{of.color.fg}"},
       "padding-inline-end": {"value": "20px"},
       "padding-inline-start": {"value": "20px"},
       "padding-block-end": {"value": "20px"},
       "padding-block-start": {"value": "20px"}
     }
   },
+
   "of": {
-    "utrecht-page-footer": {
+
+
+    "utrecht-page-header": {
       "$extensions": {
         "dte.metadata": {
-          "groupDescription": "Open Forms' extensions on the utrecht-page-footer, for responsive styling."
+          "groupDescription": "Open Forms' extensions on the utrecht-page-header, for responsive styling."
         }
       },
-
-      "max-inline-size": {"value": "100%"},
 
       "mobile": {
         "padding-block-end": {"value": "10px"},
         "padding-block-start": {"value": "10px"},
         "padding-inline-end": {"value": "15px"},
-        "padding-inline-start": {"value": "15px"}
+        "padding-inline-start": {"value": "10px"}
       },
       "tablet": {
-        "padding-block-end": {"value": "10px"},
-        "padding-block-start": {"value": "10px"},
-        "padding-inline-end": {"value": "15px"},
-        "padding-inline-start": {"value": "15px"}
+        "padding-block-end": {"value": "20px"},
+        "padding-block-start": {"value": "20px"},
+        "padding-inline-end": {"value": "20px"},
+        "padding-inline-start": {"value": "20px"}
       },
       "laptop": {
         "padding-block-end": {"value": "20px"},
@@ -48,8 +48,7 @@
         "padding-block-end": {"value": "20px"},
         "padding-block-start": {"value": "20px"},
         "padding-inline-end": {"value": "20px"},
-        "padding-inline-start": {"value": "20px"},
-        "max-inline-size": {"value": "1200px"}
+        "padding-inline-start": {"value": "20px"}
       }
     }
   }
