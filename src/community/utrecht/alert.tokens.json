@@ -7,70 +7,48 @@
         },
         "error": {
           "color": {
-            "value": "var(--of-color-danger)"
+            "value": "{of.color.danger}"
           }
         },
         "info": {
           "color": {
-            "value": "var(--of-color-info)"
+            "value": "{of.color.info}"
           }
         },
         "warning": {
           "color": {
-            "value": "var(--of-color-warning)"
+            "value": "{of.color.warning}"
           }
         },
         "ok": {
           "color": {
-            "value": "var(--of-color-success)"
+            "value": "{of.color.success}"
           }
         }
       },
-      "padding": {
-        "block": {
-          "end": {
-            "value": "20px"
-          },
-          "start": {
-            "value": "20px"
-          }
-        },
-        "inline": {
-          "start": {
-            "value": "20px"
-          },
-          "end": {
-            "value": "20px"
-          }
-        }
-      },
+      "padding-block-end": {"value": "20px"},
+      "padding-block-start": {"value": "20px"},
+      "padding-inline-start": {"value": "20px"},
+      "padding-inline-end": {"value": "20px"},
       "error": {
-        "background": {
-          "color": {
-            "value": "#f8d7da",
-            "comment": "from formio.form.css .formio-error"
-          }
+        "background-color": {
+          "value": "#f8d7da",
+          "comment": "from formio.form.css .formio-error"
         }
       },
       "info": {
-        "background": {
-          "color": {
-            "value": "#d9ebf7"
-          }
+        "background-color": {
+          "value": "#d9ebf7"
         }
       },
       "warning": {
-        "background": {
-          "color": {
-            "value": "#fff3cd"
-          }
+        "background-color": {
+          "value": "#fff3cd"
         }
       },
       "ok": {
-        "background": {
-          "color": {
-            "value": "#ddffdd"
-          }
+        "background-color": {
+          "value": "#ddffdd"
         }
       }
     }
