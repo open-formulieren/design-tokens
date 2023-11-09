@@ -28,6 +28,10 @@
         "padding-inline-start": {"value": "24px"}
       },
 
+      "summary": {
+        "gap": {"value": "12px"}
+      },
+
       "item-heading": {
         "$extensions": {
           "dte.metadata": {
