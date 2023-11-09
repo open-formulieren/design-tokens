@@ -1,0 +1,20 @@
+{
+  "of": {
+    "form": {
+      "$extensions": {
+        "dte.metadata": {
+          "groupDescription": "Layout configuration for main content."
+        }
+      },
+
+      "grid-column-gap": {"value": "20px"},
+
+      "progress-indicator": {
+        "mobile": {
+          "margin-inline-end": {"value": "calc(-1 * {of.app.mobile.padding-inline-end})"},
+          "margin-inline-start": {"value": "calc(-1 * {of.app.mobile.padding-inline-start})"}
+        }
+      }
+    }
+  }
+}
