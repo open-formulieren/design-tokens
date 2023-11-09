@@ -1,0 +1,23 @@
+{
+  "of": {
+    "app": {
+      "$extensions": {
+        "dte.metadata": {
+          "groupDescription": "The outer SDK form 'app' wrapper."
+        }
+      },
+
+      "gap": {"value": "0"},
+
+      "mobile": {
+        "padding-block-end": {"value": "15px"},
+        "padding-block-start": {
+          "value": "0",
+          "comment": "Allow room for the progress indicator"
+        },
+        "padding-inline-end": {"value": "15px"},
+        "padding-inline-start": {"value": "15px"}
+      }
+    }
+  }
+}
