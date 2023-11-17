@@ -10,6 +10,9 @@
         "text-decoration": {
           "value": "none"
         }
+      },
+      "placeholder": {
+        "color": {"value": "{of.color.fg-muted}"}
       }
     }
   }
