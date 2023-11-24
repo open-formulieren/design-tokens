@@ -11,6 +11,9 @@
           "value": "none"
         }
       },
+      "current": {
+        "font-weight": {"value": "bold"}
+      },
       "placeholder": {
         "color": {"value": "{of.color.fg-muted}"}
       }
