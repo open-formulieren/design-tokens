@@ -9,6 +9,9 @@
           "value": "not-allowed"
         }
       },
+      "inert": {
+        "cursor": {"value": "default"}
+      },
       "submit": {
         "cursor": {
           "value": "pointer"
