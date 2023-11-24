@@ -4,10 +4,7 @@
       "fg": {"value": "{of.color.fg}"}
     },
     "utrecht-link": {
-      "font-family": {"value": "{of.typography.sans-serif.font-family}"},
-      "muted": {
-        "color": {"value": "{of.color.fg-muted}"}
-      }
+      "font-family": {"value": "{of.typography.sans-serif.font-family}"}
     },
     "text": {
       "margin": {"value": "20px"},
