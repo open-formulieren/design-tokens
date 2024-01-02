@@ -1,0 +1,30 @@
+{
+  "of": {
+    "summary": {
+      "step-name": {
+        "font-size": {"value": "{utrecht.heading-3.font-size}"},
+        "line-height": {"value": "1.17"}
+      },
+      "header": {
+        "border-block-end-color": {"value": "{of.color.border}"},
+        "border-block-end-style": {"value": "solid"},
+        "border-block-end-width": {"value": "1px"},
+        "padding-block-end": {"value": "12p"},
+        "mobile": {
+          "row-gap": {"value": "8px"}
+        }
+      }
+    },
+    "utrecht-data-list": {
+      "padding-block-end": {"value": "20px"},
+      "item-key": {
+        "laptop": {
+          "font-weight": {"value": "400"}
+        }
+      },
+      "laptop": {
+        "display": {"value": "flex"}
+      }
+    }
+  }
+}
