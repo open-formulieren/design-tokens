@@ -9,7 +9,7 @@
         "border-block-end-color": {"value": "{of.color.border}"},
         "border-block-end-style": {"value": "solid"},
         "border-block-end-width": {"value": "1px"},
-        "padding-block-end": {"value": "12p"},
+        "padding-block-end": {"value": "12px"},
         "mobile": {
           "row-gap": {"value": "8px"}
         }
