@@ -4,7 +4,16 @@
       "margin-block-end": {"value": "0"},
       "margin-block-start": {"value": "0"},
       "item-key": {
-        "font-weight": {"value": 700}
+        "color": {"value": "{of.color.fg}"},
+        "font-size": {"value": "1rem"},
+        "font-weight": {"value": 700},
+        "line-height": {"value": "1.5"}
+      },
+      "item-value": {
+        "color": {"value": "{of.color.fg}"},
+        "font-size": {"value": "1rem"},
+        "font-weight": {"value": 400},
+        "line-height": {"value": "1.5"}
       },
       "rows": {
         "column": {

@@ -2,7 +2,8 @@
   "of": {
     "summary-row": {
       "spacing": {
-        "value": "10px"
+        "value": "10px",
+        "comment": "DEPRECATED"
       }
     }
   }
