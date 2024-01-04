@@ -1,5 +1,7 @@
 # Design Tokens
 
+[![NPM package](https://img.shields.io/npm/v/@open-formulieren/design-tokens.svg)](https://www.npmjs.com/package/@open-formulieren/design-tokens)
+
 Open Forms projects follow the [NL Design System](https://github.com/nl-design-system). We organize
 the design tokens in JSON files and use them in downstream projects like the SDK and the Open Forms
 backend project.
