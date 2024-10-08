@@ -1,0 +1,11 @@
+{
+  "of": {
+    "previous-link": {
+      "display-start": {"value": "none"},
+      "display-end": {"value": "inline-block"},
+      "icon": {
+        "display": {"value": "none"}
+      }
+    }
+  }
+}
