@@ -18,7 +18,7 @@
       },
 
       "danger": {
-        "fg": {"value": "#fce9e8"},
+        "fg": {"value": "#ffffff"},
         "bg": {"value": "{of.color.danger}"},
         "color-border": {"value": "#aa2218"}
       }
