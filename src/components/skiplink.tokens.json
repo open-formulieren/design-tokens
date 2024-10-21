@@ -1,0 +1,9 @@
+{
+  "of": {
+    "skiplink": {
+      "fg": {"value": "{of.button.primary.fg}"},
+      "bg": {"value": "{of.button.primary.bg}"},
+      "color-border": {"value": "{of.button.primary.color-border}"}
+    }
+  }
+}
