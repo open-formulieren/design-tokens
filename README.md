@@ -105,7 +105,7 @@ The latter form is harder to keep track off across files though.
 We don't let `npm` apply the git tags when releasing a new version, instead follow this process:
 
 ```bash
-npm version --no-git-tag-version minor
+npm version minor
 git commit -am ":bookmark: Bump to version <newVersion>"
 git tag "<newVersion>"
 git push origin main --tags
