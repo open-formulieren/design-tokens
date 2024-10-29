@@ -84,7 +84,7 @@
 
         "danger": {
           "background-color": {"value": "{of.color.danger}"},
-          "color": {"value": "#fce9e8"},
+          "color": {"value": "{of.button.danger.fg}"},
 
           "focus": {
             "border-color": {"value": "transparent"}
