@@ -1,10 +1,8 @@
 {
   "utrecht": {
     "alert": {
+      "column-gap": {"value": "16px"},
       "icon": {
-        "gap": {
-          "value": "16px"
-        },
         "error": {
           "color": {
             "value": "{of.color.danger}"
