@@ -9,6 +9,7 @@
       "font-size": {"value": "{of.text.big.font-size}"},
       "line-height": {"value": "1.333"},
       "min-block-size": {"value": "0"},
+      "max-inline-size": {"value": "100%"},
       "min-inline-size": {"value": "0"},
       "padding-block-start": {"value": "10.003px"},
       "padding-block-end": {"value": "10.003px"},
