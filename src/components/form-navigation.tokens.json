@@ -1,0 +1,14 @@
+{
+  "of": {
+    "form-navigation": {
+      "icon": {
+        "size": {"value": "auto"}
+      },
+      "link-button": {
+        "padding-inline-end": {"value": 0},
+        "padding-inline-start": {"value": 0}
+      },
+      "row-gap": {"value": "8px"}
+    }
+  }
+}

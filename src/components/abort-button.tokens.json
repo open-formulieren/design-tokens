@@ -1,0 +1,10 @@
+{
+  "of": {
+    "abort-button": {
+      "color": {"value": "{of.color.danger}"},
+      "hover": {
+        "color": {"value": "{of.color.danger}"}
+      }
+    }
+  }
+}

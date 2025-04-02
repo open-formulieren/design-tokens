@@ -2,6 +2,9 @@
   "utrecht": {
     "link": {
       "color": {"value": "{of.color.primary}"},
+      "icon": {
+        "size": {"value": "auto"}
+      },
       "text-decoration": {
         "value": "underline"
       },

@@ -6,7 +6,12 @@
       "border-radius": {"value": "0"},
       "border-width": {"value": "2px"},
       "color": {"value": "{of.button.fg}"},
+      "column-gap": {"value": "8px"},
       "font-size": {"value": "{of.text.big.font-size}"},
+      "icon": {
+        "gap": {"value": "{utrecht.button.column-gap}"},
+        "size": {"value": "auto"}
+      },
       "line-height": {"value": "1.333"},
       "min-block-size": {"value": "0"},
       "max-inline-size": {"value": "100%"},
