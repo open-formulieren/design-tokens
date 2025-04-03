@@ -4,6 +4,7 @@
       "column-gap": {"value": "8px"},
       "display-start": {"value": "none"},
       "display-end": {"value": "flex"},
+      "fa-icon": {"value": "\"\\f177\""},
       "icon": {
         "display": {"value": "inline-block"},
         "size": {"value": "auto"}

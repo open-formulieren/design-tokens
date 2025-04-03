@@ -2,6 +2,7 @@
   "of": {
     "abort-button": {
       "color": {"value": "{of.color.danger}"},
+      "fa-icon": {"value": "\"\\f00d\""},
       "hover": {
         "color": {"value": "{of.color.danger}"}
       }
