@@ -9,8 +9,8 @@
         "display": {"value": "inline-block"},
         "size": {"value": "auto"}
       },
-      "padding-block-end": {"value": "10.003px"},
-      "padding-block-start": {"value": "10.003px"}
+      "padding-block-end": {"value": "{utrecht.button.padding-block-end}"},
+      "padding-block-start": {"value": "{utrecht.button.padding-block-start}"}
     }
   }
 }
