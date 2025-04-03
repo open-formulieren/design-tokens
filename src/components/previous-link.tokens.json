@@ -1,11 +1,16 @@
 {
   "of": {
     "previous-link": {
+      "column-gap": {"value": "8px"},
       "display-start": {"value": "none"},
-      "display-end": {"value": "inline-block"},
+      "display-end": {"value": "flex"},
+      "fa-icon": {"value": "\"\\f177\""},
       "icon": {
-        "display": {"value": "inline-block"}
-      }
+        "display": {"value": "inline-block"},
+        "size": {"value": "auto"}
+      },
+      "padding-block-end": {"value": "10.003px"},
+      "padding-block-start": {"value": "10.003px"}
     }
   }
 }
