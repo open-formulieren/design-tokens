@@ -8,6 +8,7 @@
         "padding-inline-end": {"value": 0},
         "padding-inline-start": {"value": 0}
       },
+      "padding-block-start": {"value": "20px"},
       "row-gap": {"value": "8px"},
       "save-button": {
         "fa-icon": {"value": "\"\\f28b\""}
