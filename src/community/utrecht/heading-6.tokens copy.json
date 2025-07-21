@@ -1,13 +1,13 @@
 {
   "utrecht": {
-    "paragraph": {
+    "heading-6": {
       "color": {"value": "{of.color.fg}"},
       "font-family": {"value": "{of.typography.sans-serif.font-family}"},
-      "font-size": {"value": "1rem"},
+      "font-size": {"value": "0.875rem"},
       "font-weight": {"value": "normal"},
-      "line-height": {"value": "1.5"},
-      "margin-block-end": {"value": 0},
-      "margin-block-start": {"value": 0}
+      "line-height": {"value": "1.2"},
+      "margin-block-end": {"value": ""},
+      "margin-block-start": {"value": ""}
     }
   }
 }
