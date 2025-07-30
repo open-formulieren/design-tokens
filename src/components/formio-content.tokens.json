@@ -1,0 +1,9 @@
+{
+  "of": {
+    "formio-content": {
+      "error": {
+        "border-inline-start-color": {"value": "{of.color.danger}"}
+      }
+    }
+  }
+}
