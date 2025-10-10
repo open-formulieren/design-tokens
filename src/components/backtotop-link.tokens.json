@@ -1,0 +1,14 @@
+{
+  "of": {
+    "backtotop-link": {
+      "column-gap": {"value": "8px"},
+      "fa-icon": {"value": "\"\\f176\""},
+      "icon": {
+        "display": {"value": "inline-block"},
+        "size": {"value": "auto"}
+      },
+      "padding-block-end": {"value": "{utrecht.button.padding-block-end}"},
+      "padding-block-start": {"value": "{utrecht.button.padding-block-start}"}
+    }
+  }
+}
