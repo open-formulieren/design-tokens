@@ -1,0 +1,9 @@
+{
+  "of": {
+    "multifield": {
+      "remove-button": {
+        "inset-block-start": {"value": "{utrecht.textbox.border-width}"}
+      }
+    }
+  }
+}
