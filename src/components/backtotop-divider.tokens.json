@@ -1,0 +1,11 @@
+{
+  "of": {
+    "backtotop-divider": {
+      "color": {"value": "{of.color.bg}"},
+      "block-size": {"value": "auto"},
+      "inline-size": {"value": "auto"},
+      "margin-block-start": {"value": "auto"},
+      "margin-block-end": {"value": "auto"}
+    }
+  }
+}
