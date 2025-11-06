@@ -1,0 +1,19 @@
+{
+  "of": {
+    "upload-input": {
+      "padding-block-end": {"value": "15px"},
+      "padding-block-start": {"value": "15px"},
+      "padding-inline-end": {"value": "15px"},
+      "padding-inline-start": {"value": "15px"},
+      "border-width": {"value": "3px"},
+      "border-style": {"value": "dashed"},
+      "border-color": {"value": "{of.color.field-border}"},
+      "drag-over": {
+        "border-color": {"value": "{of.color.primary}"}
+      },
+      "drag-reject": {
+        "border-color": {"value": "{of.color.danger}"}
+      }
+    }
+  }
+}

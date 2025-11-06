@@ -2,7 +2,7 @@
   "utrecht": {
     "checkbox": {
       "background-color": {"value": "{of.color.bg}"},
-      "border-color": {"value": "{of.field-border.color}"},
+      "border-color": {"value": "{of.color.field-border}"},
       "border-radius": {"value": "0"},
       "border-width": {"value": "1px"},
       "color": {"value": "{of.color.fg}"},

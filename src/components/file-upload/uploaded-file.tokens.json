@@ -1,0 +1,22 @@
+{
+  "of": {
+    "uploaded-file": {
+      "row-gap": {"value": "8px"},
+      "column-gap": {"value": "8px"},
+      "padding-block-end": {"value": "8px"},
+      "padding-block-start": {"value": "8px"},
+      "padding-inline-end": {"value": "4px"},
+      "padding-inline-start": {"value": "16px"},
+      "border-width": {"value": "1px"},
+      "border-style": {"value": "solid"},
+      "border-color": {"value": "{of.color.border}"},
+      "border-radius": {"value": "2px"},
+      "metadata": {
+        "color": {"value": "{of.color.fg-muted}"}
+      },
+      "errors": {
+        "border-color": {"value": "{of.color.danger}"}
+      }
+    }
+  }
+}

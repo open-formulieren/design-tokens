@@ -2,7 +2,7 @@
   "utrecht": {
     "radio-button": {
       "size": {"value": "24px"},
-      "border-color": {"value": "{of.field-border.color}"},
+      "border-color": {"value": "{of.color.field-border}"},
       "color": {"value": "{of.color.fg}"},
       "border-width": {"value": "1px"},
       "background-color": {"value": "{of.color.bg}"},

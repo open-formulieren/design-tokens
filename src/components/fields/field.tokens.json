@@ -1,7 +1,10 @@
 {
   "of": {
     "field-border": {
-      "color": {"value": "#979797"}
+      "color": {
+        "value": "{of.color.field-border}",
+        "comment": "Deprecated, use of.color.field-border instead"
+      }
     }
   }
 }

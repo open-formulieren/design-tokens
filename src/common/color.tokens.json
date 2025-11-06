@@ -100,6 +100,10 @@
         "value": "#767676",
         "comment": "Default color for borders."
       },
+      "field-border": {
+        "value": "#979797",
+        "comment": "Border color for special fields, like checkboxes, radio and file uploads."
+      },
       "focus": {
         "$extensions": {
           "dte.metadata": {
