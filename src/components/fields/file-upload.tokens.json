@@ -2,7 +2,10 @@
   "of": {
     "file-upload": {
       "drop-area": {
-        "padding": {"value": "15px"}
+        "padding": {
+          "value": "15px",
+          "comment": "Legacy, deprecated in favour of of-upload-input."
+        }
       }
     }
   }
