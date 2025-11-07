@@ -1,0 +1,19 @@
+{
+  "of": {
+    "a11y-toolbar": {
+      "padding-inline-start": {"value": "40px"},
+      "padding-inline-end": {"value": "40px"},
+      "padding-block-start": {"value": "20px"},
+      "padding-block-end": {"value": "2px"},
+
+      "divider": {
+        "display": {"value": "none"},
+        "color": {"value": "{of.color.bg}"},
+        "block-size": {"value": "auto"},
+        "inline-size": {"value": "auto"},
+        "margin-block-start": {"value": "auto"},
+        "margin-block-end": {"value": "auto"}
+      }
+    }
+  }
+}
