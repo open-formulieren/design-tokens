@@ -1,0 +1,15 @@
+{
+  "of": {
+    "floating-widget": {
+      "border-radius": {"value": 0},
+      "background": {"value": "{of.color.bg}"},
+      "box-shadow": {
+        "value": "1px 0 0 #e6e6e6, -1px 0 0 #e6e6e6, 0 1px 0 #e6e6e6, 0 -1px 0 #e6e6e6, 0 3px 13px rgba(0, 0, 0, 0.08)"
+      },
+      "arrow": {
+        "border-color": {"value": "#e6e6e6"},
+        "stroke-width": {"value": 3}
+      }
+    }
+  }
+}
