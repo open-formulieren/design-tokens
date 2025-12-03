@@ -138,10 +138,8 @@
       },
 
       "disabled": {
-        "background": {
-          "color": {
-            "value": "#b0b0b0"
-          }
+        "background-color": {
+          "value": "#b0b0b0"
         },
         "color": {
           "value": "#ffffff"

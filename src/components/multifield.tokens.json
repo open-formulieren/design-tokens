@@ -1,8 +1,18 @@
 {
   "of": {
     "multifield": {
+      "gap": {"value": "8px"},
+      "field": {
+        "column-gap": {"value": "2px"},
+        "max-inline-size": {"value": "100%"}
+      },
       "remove-button": {
         "inset-block-start": {"value": "{utrecht.textbox.border-width}"}
+      }
+    },
+    "multifield-container": {
+      "button-group": {
+        "margin-block-start": {"value": "8px"}
       }
     }
   }

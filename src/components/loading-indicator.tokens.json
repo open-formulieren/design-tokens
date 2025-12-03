@@ -1,0 +1,18 @@
+{
+  "of": {
+    "loading-indicator": {
+      "bg-color": {"value": "{of.color.secondary}"},
+      "fg-color": {"value": "{of.color.primary}"},
+      "size": {"value": "20px"},
+      "thickness": {"value": "6px"},
+      "muted": {
+        "bg-color": {"value": "{utrecht.button.disabled.color}"},
+        "fg-color": {"value": "{utrecht.button.disabled.background-color}"}
+      },
+      "small": {
+        "size": {"value": "15px"},
+        "thickness": {"value": "4px"}
+      }
+    }
+  }
+}
