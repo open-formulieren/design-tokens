@@ -1,0 +1,25 @@
+{
+  "of": {
+    "modal": {
+      "background-color": {"value": "#ffffff"},
+      "border-color": {"value": "#eeeeee"},
+      "border-width": {"value": "1px"},
+      "box-shadow": {"value": "0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.2)"},
+      "padding-block-end": {"value": "40px"},
+      "padding-block-start": {"value": "40px"},
+      "padding-inline-end": {"value": "40px"},
+      "padding-inline-start": {"value": "40px"},
+      "row-gap": {"value": "20px"},
+      "overlay": {
+        "background-color": {"value": "rgba(255, 255, 255, 0.75)"}
+      },
+      "header": {
+        "background-color": {"value": "inherit"},
+        "margin-inline-end": {"value": "10px"}
+      },
+      "body": {
+        "bleed-margin": {"value": "2px"}
+      }
+    }
+  }
+}
