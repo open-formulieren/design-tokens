@@ -53,7 +53,7 @@
             "background-color": {"value": "{of.button.primary.bg}"}
           },
           "disabled": {
-            "color": {"value": "#666666"},
+            "color": {"value": "#444444"},
             "border-color": {"value": "transparent"},
             "background-color": {"value": "#e6e6e6"}
           }
