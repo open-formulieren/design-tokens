@@ -9,7 +9,6 @@
       "column-gap": {"value": "8px"},
       "font-size": {"value": "{of.text.big.font-size}"},
       "icon": {
-        "gap": {"value": "{utrecht.button.column-gap}"},
         "size": {"value": "auto"}
       },
       "line-height": {"value": "1.333"},
