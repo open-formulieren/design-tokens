@@ -13,6 +13,9 @@
       },
       "marker": {
         "color": {}
+      },
+      "level-1": {
+        "list-style-type": {"value": "\"–\""}
       }
     }
   }
