@@ -3,6 +3,7 @@
     "unordered-list": {
       "font-size": {},
       "line-height": {},
+      "list-style-type": {"value": "disc"},
       "margin-block-start": {"value": "12px"},
       "margin-block-end": {"value": "20px"},
       "margin-inline-start": {"value": "0"},
