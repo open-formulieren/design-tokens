@@ -19,6 +19,12 @@
       },
       "body": {
         "bleed-margin": {"value": "2px"}
+      },
+      "sheet": {
+        "max-block-size": {"value": "75dvh"},
+        "inline-size": {"value": "100dvw"},
+        "max-inline-size": {"value": "100vw"},
+        "border-radius": {"value": "5px 5px 0 0"}
       }
     }
   }
