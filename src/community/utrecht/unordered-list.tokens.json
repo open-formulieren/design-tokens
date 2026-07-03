@@ -3,13 +3,15 @@
     "unordered-list": {
       "font-size": {},
       "line-height": {},
+      "list-style-type": {"value": "disc"},
       "margin-block-start": {"value": "12px"},
       "margin-block-end": {"value": "20px"},
-      "padding-inline-start": {},
+      "margin-inline-start": {"value": "0"},
+      "padding-inline-start": {"value": "18px"},
       "item": {
         "margin-block-start": {"value": "4px"},
         "margin-block-end": {},
-        "padding-inline-start": {"value": "8px"}
+        "padding-inline-start": {"value": "0"}
       },
       "marker": {
         "color": {}
