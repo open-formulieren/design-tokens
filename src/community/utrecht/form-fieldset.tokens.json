@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "form-fieldset": {
+      "legend": {
+        "color": {"value": "{of.color.fg}"},
+        "font-size": {"value": "1.125rem"},
+        "font-weight": {"value": 400},
+        "line-heigth": {"value": 1.333}
+      }
+    }
+  }
+}

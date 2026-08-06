@@ -1,19 +1,15 @@
 {
   "of": {
-    "utrecht-form-field": {
-      "checkbox": {
+    "checkbox-group": {
+      "option": {
         "description": {
           "color": {"value": "{of.color.fg-muted}"}
         },
         "label": {
           "margin-block-end": {"value": 0}
         }
-      }
-    },
-    "utrecht-form-label": {
-      "checkbox": {
-        "font-size": {"value": "1rem"}
-      }
+      },
+      "row-gap": {"value": "12px"}
     }
   }
 }

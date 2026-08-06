@@ -1,7 +1,7 @@
 {
   "of": {
     "cosign": {
-      "bg": {"value": "{of.checkbox.bg}"}
+      "bg": {"value": "#F3F3F3"}
     }
   }
 }

@@ -1,0 +1,22 @@
+{
+  "of": {
+    "utrecht-form-fieldset": {
+      "legend": {
+        "border": {
+          "after": {
+            "flex-grow": {"value": 1}
+          },
+          "before": {
+            "flex-grow": {"value": 0},
+            "inline-size": {"value": "24px"}
+          }
+        },
+        "border-color": {"value": "#000000"},
+        "border-gap": {"value": "4px"},
+        "border-style": {"value": "solid"},
+        "border-width": {"value": "1px"},
+        "margin-block-end": {"value": "8px"}
+      }
+    }
+  }
+}

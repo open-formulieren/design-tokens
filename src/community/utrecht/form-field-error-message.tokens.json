@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "form-field-error-message": {
+      "color": {"value": "{of.color.danger}"},
+      "line-height": {"value": "150%"},
+      "margin-block-end": {"value": "8px"},
+      "margin-block-start": {"value": "8px"}
+    }
+  }
+}
