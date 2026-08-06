@@ -1,6 +1,6 @@
 {
   "name": "@open-formulieren/design-tokens",
-  "version": "0.68.1",
+  "version": "1.0.0-alpha.0",
   "description": "Design tokens for Open Forms",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
