@@ -6,7 +6,7 @@
       "border-radius": {"value": "0"},
       "border-width": {"value": "1px"},
       "color": {"value": "{of.color.fg}"},
-      "margin-inline-end": {"value": "12px"},
+      "margin-inline-end": {"value": "8px"},
       "size": {"value": "24px"},
       "icon": {
         "size": {}

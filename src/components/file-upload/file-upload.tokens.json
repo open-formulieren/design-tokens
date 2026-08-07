@@ -1,7 +1,6 @@
 {
   "of": {
     "file-upload": {
-      "grid-areas": {"value": "'dropzone' 'uploads' 'description' 'errors'"},
       "row-gap": {"value": 0},
       "uploads": {
         "padding-block-end": {"value": 0},

@@ -1,0 +1,16 @@
+{
+  "of": {
+    "faq-item": {
+      "icon": {
+        "color": {"value": "{of.color.fg}"}
+      },
+      "title": {
+        "color": {"value": "{of.color.fg}"},
+        "hover": {
+          "text-decoration": {"value": "underline"}
+        },
+        "text-decoration": {"value": "none"}
+      }
+    }
+  }
+}

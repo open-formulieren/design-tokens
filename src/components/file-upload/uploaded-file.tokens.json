@@ -15,7 +15,7 @@
         "color": {"value": "{of.color.fg-muted}"}
       },
       "errors": {
-        "border-color": {"value": "{of.color.danger}"}
+        "border-color": {"value": "{of.color.border}"}
       }
     }
   }

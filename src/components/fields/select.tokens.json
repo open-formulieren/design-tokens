@@ -3,7 +3,7 @@
     "select": {
       "$extensions": {
         "dte.metadata": {
-          "groupDescription": "(Deprecated) select component theming."
+          "groupDescription": "Select component theming."
         }
       },
       "highlighted": {

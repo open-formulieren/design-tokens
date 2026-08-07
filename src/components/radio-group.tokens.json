@@ -1,0 +1,15 @@
+{
+  "of": {
+    "radio-group": {
+      "option": {
+        "description": {
+          "color": {"value": "{of.color.fg-muted}"}
+        },
+        "label": {
+          "font-size": {"value": "1rem"}
+        }
+      },
+      "row-gap": {"value": "12px"}
+    }
+  }
+}

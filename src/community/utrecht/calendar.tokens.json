@@ -67,7 +67,7 @@
         "label": {
           "min-inline-size": {"value": "200px"},
           "color": {"value": "{of.color.fg}"},
-          "font-size": {"value": "{of.text.font-size}"}
+          "font-size": {"value": "1rem"}
         }
       },
       "icon": {

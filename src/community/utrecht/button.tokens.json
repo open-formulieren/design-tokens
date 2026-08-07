@@ -7,7 +7,7 @@
       "border-width": {"value": "2px"},
       "color": {"value": "{of.button.fg}"},
       "column-gap": {"value": "8px"},
-      "font-size": {"value": "{of.text.big.font-size}"},
+      "font-size": {"value": "1.125rem"},
       "icon": {
         "size": {"value": "auto"}
       },

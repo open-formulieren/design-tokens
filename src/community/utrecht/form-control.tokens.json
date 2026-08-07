@@ -2,6 +2,8 @@
   "utrecht": {
     "form-control": {
       "background-color": {"value": "{of.color.bg}"},
+      "border-color": {"value": "{of.color.field-border}"},
+      "font-weight": {"value": 400},
       "read-only": {
         "background-color": {"value": "{of.color.read-only.bg}"}
       }
