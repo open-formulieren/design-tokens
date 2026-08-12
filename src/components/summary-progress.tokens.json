@@ -1,11 +1,11 @@
 {
   "of": {
     "summary-progress": {
-      "padding-block-start": {"value": "0px"},
-      "padding-block-end": {"value": "20px"},
+      "padding-block-start": {"value": 0},
+      "padding-block-end": {"value": 0},
       "mobile": {
-        "padding-block-start": {"value": "0px"},
-        "padding-block-end": {"value": "20px"}
+        "padding-block-start": {"value": 0},
+        "padding-block-end": {"value": 0}
       }
     }
   }
