@@ -1,5 +1,12 @@
 # Changes
 
+## 1.1.0 (2026-08-12)
+
+Small theme update.
+
+- Removed the bottom padding from the summary progress component, this is now handled with spacing
+  tokens in its parent(s).
+
 ## 1.0.0 (2026-08-07)
 
 Breaking changes release.
