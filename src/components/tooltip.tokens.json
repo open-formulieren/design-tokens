@@ -17,7 +17,8 @@
       "padding-block-end": {"value": "6px"},
       "padding-block-start": {"value": "6px"},
       "padding-inline-end": {"value": "12px"},
-      "padding-inline-start": {"value": "12px"}
+      "padding-inline-start": {"value": "12px"},
+      "max-inline-size": {"value": "500px"}
     },
     "tooltip-icon": {
       "color": {"value": "{of.color.fg-muted}"}
