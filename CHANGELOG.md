@@ -1,5 +1,11 @@
 # Changes
 
+## 1.2.0 (2026-09-09)
+
+Small theme update.
+
+- Added a max-inline-size token for the tooltip component.
+
 ## 1.1.0 (2026-08-12)
 
 Small theme update.
